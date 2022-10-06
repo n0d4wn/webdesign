@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\images",
-    "\\showroom"
+    "\\showroom",
+    "\\showroom\\roi-bau.ch",
+    "\\showroom\\roi-bau.ch\\assets",
+    "\\showroom\\roi-bau.ch\\assets\\css"
   ],
-  "SelectedNode": "\\showroom",
+  "SelectedNode": "\\showroom\\roi-bau.ch\\referenzen.html",
   "PreviewInSolutionExplorer": false
 }
