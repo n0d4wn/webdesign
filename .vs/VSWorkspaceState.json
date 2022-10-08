@@ -1,11 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\images",
+    "\\assets",
+    "\\assets\\js",
     "\\showroom",
     "\\showroom\\roi-bau.ch",
     "\\showroom\\roi-bau.ch\\assets",
-    "\\showroom\\roi-bau.ch\\assets\\css"
+    "\\showroom\\roi-bau.ch\\assets\\js",
+    "\\showroom\\roi-bau.ch__",
+    "\\showroom\\roi-bau.ch__\\assets\\css"
   ],
   "SelectedNode": "\\showroom\\roi-bau.ch\\referenzen.html",
   "PreviewInSolutionExplorer": false
